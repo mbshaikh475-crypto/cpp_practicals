@@ -1,0 +1,5 @@
+Employee | ID: 1 | Name: mad | Dept: cse | Salary: Rs. 50000
+Employee (Updated) | ID: 102 | Name: Atharv | Dept: CSE | Salary: Rs. 55000
+Manager (Init) | ID: 201 | Name: Zubiya | Dept: IT | Salary: Rs. 90000 | Bonus: Rs. 15000
+Employee | ID: 2 | Name: sam | Dept: aiml | Salary: Rs. 60000
+Manager Bonus Update | ID: 2 | Bonus: Rs. 50000 | Total Pay: Rs. 110000
