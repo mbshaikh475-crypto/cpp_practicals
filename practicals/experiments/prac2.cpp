@@ -18,7 +18,7 @@ public:
         cin >> rollNo;
 
         cout << "Enter Marks: ";
-        cin >> marks;
+        cin >> ;
     }
 
     void displayDetails() const {
@@ -37,3 +37,4 @@ int main() {
 
     return 0;
 }
+marks
